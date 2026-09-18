@@ -1,0 +1,28 @@
+.infrastructure {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.infrastructure b,
+.payment-rail b {
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.infrastructure i {
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  background: var(--coral);
+}
+
+.payment-rail {
+  margin: 0 0 20px !important;
+  color: var(--muted) !important;
+  font-size: 12px;
+  text-align: center !important;
+}
