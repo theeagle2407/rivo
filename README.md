@@ -4,8 +4,6 @@
 
 Rivo is a two-way payment experience connecting Bolivia with African bank and mobile-money rails. A sender pays in BOB, NGN, GHS, KES or ZAR; Pollar provides the embedded Stellar wallet; USDC settles between wallets on Stellar; and the recipient completes the journey through a familiar local payout rail.
 
-Built for the **Pollar Hackathon: Build on Pollar** flagship Africa–Latin America corridor challenge.
-
 ## Why Rivo
 
 Africa and Latin America have strong local payment systems but few direct connections between them. A cross-border transfer commonly means several intermediaries, unclear pricing and a user experience designed around financial infrastructure rather than people.
